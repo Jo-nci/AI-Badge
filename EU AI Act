@@ -1,0 +1,34 @@
+---
+workflow: client-meeting-recording-and-crm-documentation
+risk_tier: limited, AI-assisted transcription of client meetings is not automatically high-risk under the EU AI Act, but the workflow has significant privacy and confidentiality concerns and may indirectly affect access to services.
+owner: Workflow owner, company-wide practice
+last_audit: 2026-10-24
+---
+
+# Client Meeting Recording and CRM Documentation
+
+## Risk classification
+
+**Provisional classification: Limited risk, subject to verification.** The workflow uses a voice-to-text application to transcribe client meetings, including customer names, investment details and spending information, then stores the transcripts in a CRM accessible to all company employees. The stated purpose is to document agreed actions and next steps. However, these records may influence decisions about withdrawing priority services when clients plan to reduce spending. This does not automatically make the transcription workflow high-risk under the EU AI Act. The classification depends on the actual use of AI and whether the workflow forms part of an AI system used for a regulated high-risk purpose. The current facts do not establish that it falls into a high-risk category. The absence of notice about recording and the broad access to confidential client information are immediate governance concerns. If the system is used to make consequential decisions about service access, its intended purpose and applicable legal requirements need further assessment.
+
+## Five-point hygiene check
+
+bias:         FAIL - No evidence of controls to check whether transcription errors or misinterpretations systematically disadvantage particular clients. Review transcripts for accuracy before using them to inform service decisions.
+
+privacy:      FAIL - Client names, investment details and spending information are transcribed and stored in a CRM accessible to every employee. Restrict access by role, assess data minimisation and retention, and verify the transcription provider's data processing and security arrangements.
+
+consent:      FAIL - Clients are not told that their conversations are being recorded. Establish a lawful basis for recording and transcription, provide appropriate notice before recording, and obtain consent where legally required. Do not assume that a legitimate business purpose alone resolves recording-law obligations.
+
+attribution:  FAIL - There is no stated process to distinguish verbatim client statements from transcription errors, summaries or employee interpretations. Label AI-generated transcripts, identify the source and date, and require human verification of material statements and agreed actions.
+
+transparency: FAIL - Clients are not informed that AI-assisted transcription is taking place. Explain the recording and transcription process, its purpose, how information is stored and shared, and how clients can raise concerns. Confirm the applicable transparency requirements for the specific system and jurisdiction.
+
+## Remediation (do these in order)
+
+1. **Stop undisclosed recording until the recording process has been reviewed and appropriate safeguards are in place.** Introduce a clear pre-meeting notice, establish the applicable lawful basis, and obtain consent where required. Provide a practical alternative for clients who do not wish to be recorded, such as manual note-taking.
+
+2. **Restrict CRM access and assess the complete data lifecycle.** Replace company-wide default access with role-based permissions. Verify the transcription app's data retention, security, access, model-training and deletion settings. Document retention periods, assess whether a data protection impact assessment is required, and ensure the CRM records only the information necessary for the stated business purpose.
+
+## Note
+
+This is general education on the EU AI Act, not legal advice.
