@@ -1,0 +1,149 @@
+**bold text** 1. A token Count: 
+My sentence was: The weather is very stormy this evening and I'm afraid the electricity may go off. 
+I used Open AI Tokenizer.  The tokens used are: Tokens 18 (Characters 83).  OpenAI Tokenizer models process text in sub-word units called tokens rather than whole words.
+It stated: A helpful rule of thumb is that one token generally corresponds to ~4 characters of text for common English text. This translates to roughly ¾ of a word (so 100 tokens ~= 75 words).
+
+**bold text** 2. A context overflow you caused: I requested input to help me brainstorm a business idea of setting up a sales & pipeline consultancy for businesses.  
+It was a very long discussion on what the scope of my role would be, how I would position it as a value-add, how much to charge, and I asked it to build a framework for my work over 4 weeks consultancy. 
+By the end, the AI had forgotten some of the basic concepts of what I wanted to do and started to give me irrelevant suggestions that wandered off topic from what I had asked at the beginning. : 
+I understand that this happened because the conversation exceeded the maximum context window capacity of the model.
+
+**bold text** 3. A temperature comparison: I used ChatGPT (Cloud) Here is my prompt: I want to set up a sales pipeline audit consultancy, to work with companies who need support with pipeline architecture, management, discipline, to improve business results. Can you suggest 3 names for my Consultancy
+Here are the results initially: I’d aim for a name that positions you as a strategic revenue partner, rather than simply a sales process consultant. Your value is helping companies identify what’s broken in their pipeline, improve sales discipline, create better visibility, and ultimately deliver more predictable revenue.
+
+Here are my three strongest suggestions.
+
+1. Pipeline Precision
+My favourite
+Tagline: Better pipelines. Better decisions. Better results.
+
+Clear, professional and immediately relevant to your offering. It suggests rigour, accuracy, accountability and measurable improvement. It could cover pipeline audits, sales management frameworks, forecasting, deal inspection and ongoing performance improvement.
+
+Best for: An independent consultancy targeting mid-market and enterprise businesses.
+
+
+
+
+2. Revenue Mechanics
+Tagline: Build the discipline behind predictable growth.
+
+This positions you at a broader, more strategic level. You're not just auditing a CRM or inspecting opportunities; you're examining the mechanisms that drive revenue performance: pipeline architecture, seller behaviours, management routines and execution.
+
+Best for: A consultancy that may eventually expand into wider sales effectiveness and revenue operations.
+
+
+
+
+3. Pipeline to Performance
+Tagline: Turn pipeline insight into revenue impact.
+
+This is the most explicit description of the outcome you deliver. It connects pipeline health and management discipline directly to commercial results, making the proposition easy for a CEO, CRO or sales leader to understand.
+
+Best for: A consultancy built around diagnostic audits, actionable recommendations and measurable business outcomes.
+Then I entered the same prompt but asked it to be more creative - the results are certainly more imaginative and for me, better! Here are the 3 suggestions: I’d move away from names that simply describe a sales consultancy. The opportunity is to own a more distinctive space: the discipline behind revenue performance.
+
+Here are my three strongest creative directions.
+
+1. DEALSCOPE
+See the pipeline differently.
+
+A name built around deeper visibility into what is really happening inside a sales pipeline. It suggests diagnostic precision: exposing weak opportunities, gaps in coverage, poor sales behaviours and forecasting blind spots.
+
+Brand positioning: The independent diagnostic for revenue performance.
+
+Why it works: Short, memorable and expandable beyond audits into ongoing pipeline intelligence and management advisory.
+
+
+
+
+2. REVENUE BLUEPRINT
+Engineer the path to growth.
+
+This positions your consultancy as the architect of a better-performing sales organisation. You design how pipeline is structured, how opportunities progress, how managers inspect performance and how sellers maintain discipline.
+
+Brand positioning: Design the system. Change the outcome.
+
+Why it works: It elevates the offer from identifying problems to redesigning the commercial operating model that produces results.
+
+
+
+
+3. CLOSE THE GAP
+From pipeline potential to performance.
+
+A more provocative, outcome-led brand. Every business has a gap between the revenue it forecasts, the opportunities it carries and the results it actually delivers. Your consultancy identifies and closes that gap.
+
+Brand positioning: Find the gaps. Fix the execution. Deliver the number.
+
+Why it works: It connects your work directly to the commercial problem executives care about, rather than the mechanics of pipeline management.
+
+
+
+My verdict
+Name	Strongest attribute
+DEALSCOPE	Distinctive, diagnostic, modern
+REVENUE BLUEPRINT	Strategic, credible, expandable
+CLOSE THE GAP	Memorable, provocative, outcome-led
+
+My pick is DEALSCOPE. It has the strongest potential to become a recognisable specialist brand rather than another general sales consultancy. You could build a proprietary DealScope Pipeline Audit methodology around it.
+
+4. Hallucination - I tried many different prompts to test hallucination - but ChatGPT returned only accurate information!  Can you provide the full APA citation for the chapter on 'Neural Latent Alignment' in the Oxford Handbook of Deep Learning Architectures (2022 edition)
+I couldn't verify a chapter titled “Neural Latent Alignment” in a 2022 edition of Oxford Handbook of Deep Learning Architectures. The title may be inaccurate, or the source may not be a published academic chapter.
+
+I would not recommend using a guessed APA citation. If you share the author's name, a link, or a photograph of the book's contents page, I can help identify the intended chapter and format its full APA 7 citation, including editors, page range, publisher, and DOI or URL if available.
+
+This might also interest you.
+
+
+
+Can you give me the exact APA citation, journal name, and page numbers for Yann LeCun's 2022 paper on 'Catastrophic Context Compression in Recurrent Transformer Hybrids'?
+I could not verify any published paper by Yann LeCun titled “Catastrophic Context Compression in Recurrent Transformer Hybrids” (2022). Searches of academic publication records did not identify a matching paper, journal, or page range. 
+
+dblp.uni-trier.de
++1
+
+A genuine 2022 publication by LeCun that you may be thinking of is:
+
+APA 7 citation
+
+Matsuo, Y., LeCun, Y., Sahani, M., Precup, D., Silver, D., Sugiyama, M., Uchibe, E., & Morimoto, J. (2022). Deep learning, reinforcement learning, and world models. Neural Networks, 152, 267–275. https://doi.org/10.1016/j.neunet.2022.03.037 
+
+UCL Discovery
+
+This is a genuine journal article, but it does not specifically study context compression or recurrent Transformer overflow.
+
+My recommendation: Do not cite the purported “Catastrophic Context Compression” paper unless you can locate its original publication record. If you share the link or reference list where you encountered it, I can help identify the intended source.
+
+Please provide 3 peer-reviewed APA citations for journal articles published between 2021 and 2023 on 'Quantum-Assisted Tokenization in Transformer Models'
+I couldn't verify three peer-reviewed journal articles published between 2021 and 2023 that specifically study “Quantum-Assisted Tokenization in Transformer Models.” The phrase does not appear to correspond to an established research topic with three identifiable papers in that period.
+
+However, there are peer-reviewed papers on closely related topics: quantum approaches to language modelling, quantum algorithms for natural-language processing, and tokenization in Transformer architectures. These are related areas, not interchangeable research topics.
+
+Three relevant peer-reviewed journal articles
+1. Quantum-assisted natural-language processing (2021)
+
+Bausch, J., Subramanian, S., & Piddock, S. (2021). A quantum search decoder for natural language processing. Quantum Machine Intelligence, 3, Article 16. https://doi.org/10.1007/s42484-021-00041-1
+
+Relevance: Explores quantum search techniques for decoding probabilistic language models. It addresses quantum-assisted language processing, but not Transformer tokenization specifically. 
+
+Springer Nature Link
+
+2. Quantum language models (2022)
+
+Zhang, P., Hui, W., Wang, B., Zhao, D., Song, D., Lioma, C., & Simonsen, J. G. (2022). Complex-valued neural network-based quantum language models. ACM Transactions on Information Systems, 40(4), Article 84. https://doi.org/10.1145/3505138
+
+Relevance: Develops a differentiable quantum-inspired language-modelling approach using complex-valued representations to encode word order and improve language understanding tasks. It does not propose quantum-assisted Transformer tokenization. 
+
+University of Copenhagen Research Portal
+
+3. Tokenization in Transformer architectures (2023)
+
+Qian, S., Zhu, Y., Li, W., Li, M., & Jia, J. (2023). What makes for good tokenizers in vision transformer? IEEE Transactions on Pattern Analysis and Machine Intelligence, 45(11), 13011–13023. https://doi.org/10.1109/TPAMI.2022.3231442
+
+Relevance: Examines tokenizer design in Vision Transformers and evaluates approaches to improving token representations. It addresses Transformer tokenization, but not quantum computing. 
+
+PubMed
++1
+
+Important distinction for your literature review
+These three citations are genuine, peer-reviewed journal publications within your requested date range, but none directly establishes research on quantum-assisted tokenization in Transformer models. They can support a review of the neighbouring research areas, but should not be represented as direct evidence for that specific topic.
